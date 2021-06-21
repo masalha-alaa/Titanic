@@ -6,6 +6,6 @@ The given dataset includes passenger information, such as: name / age / gender /
 
 In this notebook I explain the steps I have done to build my model and achieve a high accuracy of 78%.
 
-Please find the notebook [**titanic.ipynb**](https://github.com/masalha-alaa/Titanic/blob/master/titanic.ipynb) in the root directory, in which you'll find a walkthrough of my work, or head over to my [Kaggle profile](https://www.kaggle.com/alaamasalha/titanic) where you'll find the same notebook and see some of my other projects.
+Please find the notebook [**titanic.ipynb**](https://github.com/masalha-alaa/Titanic/blob/master/titanic.ipynb) in the root directory (refresh if it doesn't load), in which you'll find a walkthrough of my work, or head over to my [Kaggle profile](https://www.kaggle.com/alaamasalha/titanic) where you'll find the same notebook and see some of my other projects.
 
 <img src="https://github.com/masalha-alaa/Titanic/blob/master/docs/titanic-profile.png">
