@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster
 
-The Titanic competition is a classification Machine Learning competition at Kaggle, in which the participants are challeneged to predict which passengers have survived during the infamous Titanic shipwreck, back in 1912.
+[The Titanic competition](https://www.kaggle.com/c/titanic) is a classification Machine Learning competition at Kaggle, in which the participants are challeneged to predict which passengers have survived during the infamous Titanic shipwreck, back in 1912.
 
 The given dataset includes passenger information, such as: name / age / gender / fare / socio-economic class / number of family members / ticket number / cabin number / embarkation.
 
